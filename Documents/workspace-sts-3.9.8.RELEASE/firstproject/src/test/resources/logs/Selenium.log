@@ -1,0 +1,38 @@
+17:56:13,909 DEBUG devpinoyLogger:59 - config file loaded
+17:56:13,912 DEBUG devpinoyLogger:73 - OR file loaded
+17:56:15,648 DEBUG devpinoyLogger:91 - CHROME DRIVER LAUNCHED
+17:56:18,377 DEBUG devpinoyLogger:97 - NAVIGATED TOhttp://www.way2automation.com/angularjs-protractor/banking/#/login
+17:56:18,628 DEBUG devpinoyLogger:16 - Inside testcase class
+17:56:21,698 DEBUG devpinoyLogger:24 - Login successfully executed
+17:56:21,717 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_SG", UTF-8, parsed); will try to load it.
+17:56:21,718 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_SG.ftl"): Not found
+17:56:21,719 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:56:21,720 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:56:21,720 DEBUG cache:45 - Loading template for "Extent.ftl"("en_SG", UTF-8, parsed) from "jar:file:/Users/shailu1/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:56:21,908 DEBUG devpinoyLogger:19 - Inside testcase class
+17:56:21,909 DEBUG devpinoyLogger:25 - Login successfully executed
+17:56:28,385 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_SG", UTF-8, parsed); will try to load it.
+17:56:28,386 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_SG.ftl"): Not found
+17:56:28,386 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:56:28,387 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:56:28,388 DEBUG cache:45 - Loading template for "Extent.ftl"("en_SG", UTF-8, parsed) from "jar:file:/Users/shailu1/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:56:28,418 DEBUG devpinoyLogger:19 - Inside testcase class
+17:56:28,418 DEBUG devpinoyLogger:25 - Login successfully executed
+17:56:34,665 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_SG", UTF-8, parsed); will try to load it.
+17:56:34,665 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_SG.ftl"): Not found
+17:56:34,666 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:56:34,666 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:56:34,666 DEBUG cache:45 - Loading template for "Extent.ftl"("en_SG", UTF-8, parsed) from "jar:file:/Users/shailu1/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:56:34,692 DEBUG devpinoyLogger:19 - Inside testcase class
+17:56:34,692 DEBUG devpinoyLogger:25 - Login successfully executed
+17:56:34,693 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_SG", UTF-8, parsed); will try to load it.
+17:56:34,694 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_SG.ftl"): Not found
+17:56:34,694 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:56:34,694 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:56:34,695 DEBUG cache:45 - Loading template for "Extent.ftl"("en_SG", UTF-8, parsed) from "jar:file:/Users/shailu1/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:56:34,725 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_SG", UTF-8, parsed); will try to load it.
+17:56:34,725 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_SG.ftl"): Not found
+17:56:34,726 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:56:34,726 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:56:34,726 DEBUG cache:45 - Loading template for "Extent.ftl"("en_SG", UTF-8, parsed) from "jar:file:/Users/shailu1/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:56:34,835 DEBUG devpinoyLogger:204 - Test execution completed
